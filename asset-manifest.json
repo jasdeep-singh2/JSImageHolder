@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/jasdeep-singh2/JSImageHolder/static/css/main.073c9b0a.css",
+    "main.js": "/jasdeep-singh2/JSImageHolder/static/js/main.df1ece23.js",
+    "static/js/787.f7bcd664.chunk.js": "/jasdeep-singh2/JSImageHolder/static/js/787.f7bcd664.chunk.js",
+    "index.html": "/jasdeep-singh2/JSImageHolder/index.html",
+    "main.073c9b0a.css.map": "/jasdeep-singh2/JSImageHolder/static/css/main.073c9b0a.css.map",
+    "main.df1ece23.js.map": "/jasdeep-singh2/JSImageHolder/static/js/main.df1ece23.js.map",
+    "787.f7bcd664.chunk.js.map": "/jasdeep-singh2/JSImageHolder/static/js/787.f7bcd664.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.df1ece23.js"
+  ]
+}
